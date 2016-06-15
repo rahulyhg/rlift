@@ -1,0 +1,9 @@
+[07-Jan-2016 05:40:34 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/sarwar24/public_html/ritelift/app/View/Users/login.ctp on line 5
+[07-Jan-2016 05:40:37 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/sarwar24/public_html/ritelift/app/View/Users/login.ctp on line 5
+[07-Jan-2016 05:41:08 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/sarwar24/public_html/ritelift/app/View/Users/login.ctp on line 5
+[07-Jan-2016 05:41:17 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/sarwar24/public_html/ritelift/app/View/Users/login.ctp on line 5
+[07-Jan-2016 05:45:31 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/sarwar24/public_html/ritelift/app/View/Users/login.ctp on line 5
+[07-Jan-2016 05:45:35 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/sarwar24/public_html/ritelift/app/View/Users/login.ctp on line 5
+[07-Jan-2016 05:53:46 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/sarwar24/public_html/ritelift/app/View/Layouts/default.ctp on line 56
+[14-Jan-2016 07:34:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sarwar24/public_html/ritelift/app/Controller/ApisController.php on line 277
+[29-Jan-2016 09:54:40 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home/sarwar24/public_html/ritelift/app/View/Users/login.ctp on line 5
